@@ -1,2 +1,11 @@
-# ds_caja_andes
-Desafío Caja los Andes (DS)
+# Desafío para Científicos de Datos - Caja de los Andes
+
+Solución técnica: **Desafío para Científicos de Datos - LATAM Airlines**.
+
+Algunas consideraciones:
+
+* El **desafío** se puede encontrar en el siguiente [enlace](code/challenge.md).
+* La **solución** se puede encontrar en el siguiente [enlace](code/solution.ipynb).
+* La estrategia de *Git Branching* utilizada fue [Trunk-based Development](https://www.atlassian.com/continuous-delivery/continuous-integration/trunk-based-development).
+* Mi **CV** se puede encontrar en el siguiente [enlace](files/cv_espanol.pdf).
+
