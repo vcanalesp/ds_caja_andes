@@ -1,6 +1,6 @@
-# Desafío para Científicos de Datos - Caja de los Andes
+# Desafío para Científicos de Datos - Caja los Andes
 
-Solución técnica: **Desafío para Científicos de Datos - LATAM Airlines**.
+Solución técnica: **Desafío para Científicos de Datos - Caja los Andes**.
 
 Algunas consideraciones:
 
